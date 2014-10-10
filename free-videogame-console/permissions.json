@@ -8,4 +8,5 @@
 ,"access-working-directory" : true
 ,"allow-network-access" : true
 ,"graphics-card" : true
+,"sudo":true
 }
