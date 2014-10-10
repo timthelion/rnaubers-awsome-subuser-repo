@@ -1,0 +1,11 @@
+{
+"description" : "A gaming platform"
+,"maintainer" : "rnauber"
+,"last-update-time" : "2014-02-12-12:59"
+,"executable" : "/usr/bin/xterm"
+,"x11" : true
+,"sound-card" : true
+,"access-working-directory" : true
+,"allow-network-access" : true
+,"graphics-card" : true
+}
